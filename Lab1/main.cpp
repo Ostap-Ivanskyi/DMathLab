@@ -25,7 +25,7 @@ int main()
     // cout<<NOT(false)<<"\t"<<AND(false,false)<<"\t"<<OR(false,false)<<"\t";
     // cout<<IMP(false,false)<<"\t"<<EQ(false,false)<<"\t";
     // cout<<XOR(false,false)<<"\n";
-
+    
     cout << "a\tb\tc\tF\n";
 
     cout << "1\t1\t1\t";
